@@ -39,9 +39,14 @@ Create a **currency swap form** that allows users to convert from one token to a
 
 ### 📸 Screenshots
 
-| Interface                       | Swapping                        | Result                         |
-| ------------------------------- | ------------------------------- | ------------------------------ |
-| ![Swap UI](./public/image1.png) | ![Loading](./public/image2.png) | ![Result](./public/image3.png) |
+- **Swap Interface**
+  ![Swap UI](./public/image1.png)
+
+- **During Swapping**
+  ![Loading](./public/image2.png)
+
+- **Swap Result**
+  ![Result](./public/image3.png)
 
 ---
 
